@@ -17,7 +17,3 @@ booktitle={Workshop on Machine Learning and Compression, NeurIPS 2024},
 year={2024},
 }
 ```
-  
-  
-
-}
